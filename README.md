@@ -1,3 +1,3 @@
 # MONOPOLY
 MONOPOLY
-![image](picture or gif url)
+![image](https://github.com/tszhochantony/MONOPOLY/blob/main/sample.png)
